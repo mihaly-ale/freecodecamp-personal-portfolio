@@ -189,7 +189,6 @@ main .section {
 }
 
 .aboutme-text {
-  max-width: 75ch;
   margin-bottom: var(--gap-500);
 }
 
